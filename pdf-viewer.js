@@ -4,7 +4,7 @@
   // Default size preferences to render each page
   const DEFAULT_MIN_SIZE = 100;
   const DEFAULT_SIZE = 350;
-  const DEFAULT_MAX_SIZE = 2000;
+  const DEFAULT_MAX_SIZE = 3000;
   const DEFAULT_SIZE_STEP = 50;
   const DEFAULT_SCALE = 1.0;
 
